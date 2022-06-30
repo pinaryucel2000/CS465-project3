@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  margin: 2%;
+}
+
+.settings {
+  display: flex;
+  flex-direction: column;
+  margin-right: 5%;
+}
+
+.item {
+  margin-bottom: 20%;
+  margin-top: 2%;
+}
